@@ -13,7 +13,7 @@ A RESTful API for generating customizable PowerPoint presentations using Python 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ganesh9980/slide-generator-api.git
+   git clone https://github.com/ganesh9980/Slide-Generator-API.git
    cd slide-generator-api
 
 2. Install dependencies:
